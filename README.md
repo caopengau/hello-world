@@ -1,3 +1,3 @@
 # hello-world
-starting git hub
+starting git hub\n
 This is the first edition
